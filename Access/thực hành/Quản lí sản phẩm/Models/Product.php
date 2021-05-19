@@ -1,5 +1,6 @@
 <?php
 
+
 namespace Models;
 
 class Product
@@ -32,3 +33,4 @@ class Product
     {
         return $this->price;
     }
+}
